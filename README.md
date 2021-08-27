@@ -1,1 +1,1 @@
-# Regression Project and tSNE Project
+#tSNE Project
